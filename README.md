@@ -27,7 +27,7 @@ To run the project locally, follow these steps:
    git clone https://github.com/gunsugunaydin/Twids.git
    cd Twids
    mvn clean install
-   java -jar target/twids-springblog.jar
+   java -jar target/SpringStarter-0.0.1-SNAPSHOT.jar
    
 3. *Usage:*
    Once the application has started successfully, you can start using it by navigating to http://localhost:8080 in your browser.
