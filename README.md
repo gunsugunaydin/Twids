@@ -37,6 +37,4 @@ After logging in, you will encounter the homepage of my modest website. It is fu
 
 ![Ekran görüntüsü 2024-07-03 221952](https://github.com/gunsugunaydin/Twids/assets/110038957/03b30c8d-ed21-49d0-a2a0-8d43d8a4c141)
 
-
-
-       Homepage screenshot
+Homepage Screenshot
